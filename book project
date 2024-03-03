@@ -22,7 +22,7 @@ while a==True:
     if a==True:
         new_book=input("What book did you read? ")
         booklist.append(new_book)
-        new_genre=input ("What genre is this book (non-fiction, romance, science-fiction, fantasy, mystery, historical fiction, dystopian, adventure, other)? ")
+        new_genre=input ("What genre is this book (non-fiction, romance, science-fiction, fantasy, mystery, historical fiction, dystopian, adventure, other)? ").lower()
         genrelist.append(new_genre)
         if new_genre == "non-fiction":
             non_fiction = non_fiction + 1 
