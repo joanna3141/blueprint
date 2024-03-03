@@ -1,6 +1,7 @@
 booklist=[]
 ratinglist=[]
 fiveStar = 0
+oneStar = 0
 a=True
 while a==True:
     if a==True:
@@ -18,6 +19,7 @@ while a==True:
             print("⭐️⭐️")
         if rating==1:
             print("⭐️")
+            oneStar = oneStar + 1
         ratinglist.append(rating)
         print (booklist)
         print (ratinglist)
