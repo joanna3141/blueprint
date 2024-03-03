@@ -1,3 +1,5 @@
+from statistics import mode
+
 booklist=[]
 ratinglist=[]
 genrelist = []
@@ -64,3 +66,4 @@ while a==True:
         print (dystopian)
         print (adventure)
         print (other)
+        print(mode(genrelist))
