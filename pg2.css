@@ -1,0 +1,190 @@
+
+.div {
+  background-color: #eee5e0;
+  display: flex;
+  flex-direction: column;
+  padding: 29px 27px;
+}
+
+.div-2 {
+  color: #000;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  align-self: center;
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+.div-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background-color: #cbb49e;
+  display: flex;
+  margin-top: 29px;
+  flex-direction: column;
+  width: 1700px;
+  height: 1000px;
+}
+.div-4 {
+  margin-top: 36px;
+}
+.div-5 {
+  gap: 20px;
+  display: flex;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 0px;
+}
+.div-6 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  font-size: 40px;
+  color: #000;
+  font-weight: 500;
+}
+.div-7 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Courier New', Courier, monospace;
+  z-index: 10;
+  font-size: 25px;
+  align-self: center;
+  font-weight:bolder;
+}
+.div-8 {
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+.div-9 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  font-size: 40px;
+  color: #000;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.div-10 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Courier New', Courier, monospace;
+  align-self: center;
+  z-index: 10;
+  font-size: 25px;
+  font-weight:bolder;
+}
+.div-11 {
+}
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+.div-12 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  font-size: 40px;
+  color: #000;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.div-13 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Courier New', Courier, monospace;
+  align-self: center;
+  z-index: 10;
+  font-size: 25px;
+  font-weight:bolder;
+}
+.div-14 {
+}
+.div-15 {
+  margin: 110px 0 4px;
+}
+.div-16 {
+  gap: 20px;
+  display: flex;
+}
+.div-17 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  font-size: 40px;
+  color: #000;
+  font-weight: 500;
+  white-space: nowrap;
+  text-align: center;
+}
+.div-18 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Courier New', Courier, monospace;
+  align-self: center;
+  z-index: 10;
+  font-size: 25px;
+  font-weight:bolder;
+}
+.div-19 {
+}
+.column-4 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+.div-20 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  font-size: 40px;
+  color: #000;
+  font-weight: 500;
+  white-space: nowrap;
+  text-align: center;
+}
+.div-21 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Courier New', Courier, monospace;
+  align-self: center;
+  z-index: 10;
+  font-size: 25px;
+  font-weight:bolder;
+}
+.div-22 {
+
+}
+.column-5 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+.div-23 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  font-size: 40px;
+  color: #000;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.div-24 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Courier New', Courier, monospace;
+  align-self: center;
+  z-index: 10;
+  font-size: 25px;
+  font-weight:bolder;
+}
+.div-25 {
+}
