@@ -72,3 +72,4 @@ while a==True:
         print (adventure)
         print (other)
         print(mode(genrelist))
+        print(sum(pagelist))
