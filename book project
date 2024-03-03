@@ -8,13 +8,13 @@ while a==True:
         if rating==5:
             print("⭐️⭐️⭐️⭐️⭐️")
             fiveStar = fiveStar + 1
-        if rating==4:
+        elif rating==4:
             print("⭐️⭐️⭐️⭐️")
-        if rating==3:
+        elif rating==3:
             print("⭐️⭐️⭐️")
-        if rating==2:
+        elif rating==2:
             print("⭐️⭐️")
-        if rating==1:
+        elif rating==1:
             print("⭐️")
         rating.append (rating)
 
