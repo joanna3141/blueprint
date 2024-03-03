@@ -4,6 +4,7 @@ from statistics import mode
 booklist=[]
 ratinglist=[]
 genrelist = []
+hours_reading = []
 fiveStar = 0
 oneStar = 0
 non_fiction = 0
@@ -58,6 +59,8 @@ while a==True:
         ratinglist.append(rating)
         pages=int(input("How many pages are in your book? "))
         pagelist.append(pages)
+        hours=int(input("How many hours did it take you to finish the book? "))
+        hours_reading.append(hours)
 
         print (booklist)
         print (ratinglist)
