@@ -1,24 +1,21 @@
+booklist=[]
 fiveStar = 0
-rating = []
-booklist = []
 a=True
 while a==True:
     if a==True:
-        new_book=input("What book did you read? ")
+        book=input("What book did you read? ")
         rating=int(input("What would you rate this book out of 5 stars? "))
         if rating==5:
             print("⭐️⭐️⭐️⭐️⭐️")
             fiveStar = fiveStar + 1
-        elif rating==4:
+        if rating==4:
             print("⭐️⭐️⭐️⭐️")
-        elif rating==3:
+        if rating==3:
             print("⭐️⭐️⭐️")
-        elif rating==2:
+        if rating==2:
             print("⭐️⭐️")
-        elif rating==1:
+        if rating==1:
             print("⭐️")
-        rating.append (rating)
-        booklist.append(new_book)
 
 
 booklist=
