@@ -12,3 +12,10 @@ if rating==2:
 if rating==1:
     print("⭐️")
     
+booklist = []
+while booklist == -1:
+    new_book = input ("What book did you read? Write done if done. ")
+    booklist.append(new_book)
+
+print (booklist)
+if new_book == ("done")
