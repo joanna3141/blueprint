@@ -19,6 +19,8 @@ while a==True:
         if rating==1:
             print("⭐️")
         ratinglist.append(rating)
+        print (booklist)
+        print (ratinglist)
 
 booklist=
 
