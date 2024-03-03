@@ -14,7 +14,7 @@ if rating==1:
     
 booklist = []
 while booklist == -1:
-    new_book = input ("What book did you read? Leave blank to stop. ")
+    new_book = input ("What book did you read? ")
     if not new_book: 
         break
     booklist.append(new_book)
