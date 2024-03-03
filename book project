@@ -1,4 +1,5 @@
 from statistics import mode
+#make sure to credit statistics API
 
 booklist=[]
 ratinglist=[]
