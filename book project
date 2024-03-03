@@ -1,4 +1,5 @@
 fiveStar = 0
+rating = []
 a=True
 while a==True:
     if a==True:
@@ -15,8 +16,8 @@ while a==True:
             print("⭐️⭐️")
         if rating==1:
             print("⭐️")
+        rating.append (rating)
 
-rating
 
 booklist=
 
