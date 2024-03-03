@@ -22,13 +22,3 @@ while a==True:
         print (booklist)
         print (ratinglist)
 
-booklist=
-
-booklist = []
-while booklist == -1:
-    new_book = input ("What book did you read? ")
-    if not new_book: 
-        break
-    booklist.append(new_book)
-
-print (booklist)
