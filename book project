@@ -58,6 +58,7 @@ while a==True:
         ratinglist.append(rating)
         pages=int(input("How many pages are in your book? "))
         pagelist.append(pages)
+
         print (booklist)
         print (ratinglist)
         print (genrelist)
